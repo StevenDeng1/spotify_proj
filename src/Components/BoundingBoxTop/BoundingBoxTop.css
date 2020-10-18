@@ -1,0 +1,10 @@
+#Top_Bounding_Box {
+  display: flex;
+  float: center;
+  margin-left: 25%;
+  margin-top: 10%;
+  width: 50%;
+  height: 20%;
+  box-sizing: content-box;
+  border: solid;
+}
